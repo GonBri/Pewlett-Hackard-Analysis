@@ -16,5 +16,5 @@ The purpose of the new analysis is to determine the number of retiring employees
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Aproximately 33K
 
-2.Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Currently the Eligible Employees ready for the Mentorship Program are 1550 which is good number to start planning how is it going to work the program and have a better idea of the percentage of the employees willing to participate on it. 
