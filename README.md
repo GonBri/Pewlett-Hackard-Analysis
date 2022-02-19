@@ -1,17 +1,17 @@
 # Pewlett-Hackard-Analysis
 
-###Overview of the analysis:
+## Overview of the analysis:
 
 The purpose of the new analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a  mentorship program.
 
-#Results:
+## Results:
 
 1. Retiring Senior Engineers: 29414
 2. Retiring Senior Staff: 28254
 3. Retiring Engineers: 14222
 4. Eligible for Mentorship Program: 1550
 
-##Summary:
+## Summary:
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Aproximately 33K
